@@ -1,0 +1,3 @@
+GET https://api.gather.town/api/v2/spaces/uXtCAlpX7Ip2mzUJ%5CTiles%20Game/maps/?useV2Map=true HTTP/1.1
+content-type: application/json
+apiKey: ...
